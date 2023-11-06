@@ -14,7 +14,7 @@ Our meetings are held every Wednesday at 5:00 PM in the Department of Statistics
 ## This Week's Topic
 - **Week 42: Bayesian Methods in Modern Statistics**
   - [Discussion Summary](/week-42/)
-  - [R Markdown File](/2023-10-05-title.html)
+  - [R Markdown File](/2023-11-04-my-first-post.html)
   - [Slides](/week-42/slides-42.pdf)
 
 
